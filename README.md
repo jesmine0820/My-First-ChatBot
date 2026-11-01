@@ -30,37 +30,9 @@ The general workflow consists of:
 
 ---
 
-## 📂 Project Features
-
-- Text preprocessing using NLTK.
-- Neural network implementation using PyTorch.
-- Intent classification.
-- Training a chatbot model using a dataset of predefined intents and responses.
-- Generating responses based on predicted user intents.
-
----
-
 ## 📚 References & Learning Resources
 
 This project was developed with guidance and learning resources from:
 
 - **GitHub Repository:** [PyTorch Chatbot by Patrick Loeber](https://github.com/patrickloeber/pytorch-chatbot)
 - **YouTube Tutorial Series:** [PyTorch Chatbot Tutorial – Patrick Loeber](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
-
-Special thanks to Patrick Loeber for providing the tutorial and reference implementation that helped me build this project.
-
----
-
-## 🚀 Learning Outcomes
-
-Through this project, I gained practical experience in:
-
-- Understanding the fundamentals of Natural Language Processing (NLP).
-- Learning how to preprocess and tokenize text data.
-- Building and training a neural network using PyTorch.
-- Understanding intent classification in chatbot development.
-- Applying machine learning concepts to a simple real-world application.
-
----
-
-⭐ *This is my first chatbot project, and a starting point in my journey towards learning Artificial Intelligence and Deep Learning.*
